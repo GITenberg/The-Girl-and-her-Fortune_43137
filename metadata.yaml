@@ -1,0 +1,37 @@
+_repo: The-Girl-and-her-Fortune_43137
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Mead, L. T.
+    - Meade, Elizabeth Thomasina
+    - Thomas, Elizabeth
+    - Smith, Elizabeth Thomasina Meade
+    - Meade, Lillie
+    - Meade, Mrs. L. T.
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2013-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Young women -- Fiction'
+title: The Girl and Her Fortune
+url: http://www.gutenberg.org/ebooks/43137
